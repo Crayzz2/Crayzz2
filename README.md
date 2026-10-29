@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer (Junior)<br>🎓 Information Systems graduate<br>🧠 Experience combining software development and IT infrastructure<br>🔧 Strong background in troubleshooting and technical support<br>📈 Constantly learning and improving</p>
+<p align="left">💻 Full Stack Developer<br>🎓 Information Systems graduate<br>🧠 Experience combining software development and IT infrastructure<br>🔧 Strong background in troubleshooting and technical support<br>📈 Constantly learning and improving</p>
 
 ###
 
